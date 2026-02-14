@@ -1,7 +1,18 @@
 ## Hi there 👋
+# Welcome to My GitHub Profile!
 
+Hi there! I'm bope, a passionate learner with a love for coding and open-source projects.
+
+- 🌱 I’m currently learning:
+   - ML & Data Science
+   - C++ for windows app development
+
+## Skills
+- **Languages**: JavaScript (AP comp sci), learning Python
+
+ 
 <!--
-**bope1324/bope1324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**onsomlem/onsomlem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
