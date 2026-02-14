@@ -1,7 +1,7 @@
 ## Hi there 👋
 # Welcome to My GitHub Profile!
 
-Hi there! I'm bope, a passionate learner with a love for coding and open-source projects.
+Hi there! I'm Noah O, a passionate learner with a love for coding and open-source projects.
 
 - 🌱 I’m currently learning:
    - ML & Data Science
@@ -12,7 +12,7 @@ Hi there! I'm bope, a passionate learner with a love for coding and open-source 
 
  
 <!--
-**onsomlem/onsomlem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**This repo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
